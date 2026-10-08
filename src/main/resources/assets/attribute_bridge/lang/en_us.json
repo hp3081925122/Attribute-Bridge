@@ -1,0 +1,11 @@
+{
+  "attribute_bridge.rules_mismatch": "Cannot apply server attribute bridge rules. Check that attribute-providing mods match on both sides.",
+  "attribute_bridge.reloaded": "Reloaded %s attribute modifier bridge groups.",
+  "attribute_bridge.reload_failed": "Failed to reload rules; previous rules remain active: %s",
+  "attribute_bridge.group_count": "%s rule groups are active.",
+  "attribute_bridge.group": "%s | Mode: %s | Attributes: %s",
+  "attribute_bridge.not_living": "The target must be a living entity.",
+  "attribute_bridge.no_attribute": "The target does not have attribute: %s",
+  "attribute_bridge.inspect": "%s | %s | Base: %s | Effective: %s | Native modifiers: %s | Effective modifiers: %s",
+  "attribute_bridge.modifier": "  %s | Operation: %s | Amount: %s"
+}

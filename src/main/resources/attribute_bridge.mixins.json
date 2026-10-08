@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.hp.attributebridge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "attribute_bridge.refmap.json",
+  "mixins": ["AttributeMixin", "AttributeInstanceMixin", "AttributeMapMixin", "LivingEntityMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

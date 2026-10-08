@@ -1,0 +1,4 @@
+Attribute Bridge
+Copyright (c) 2026 hp12138. All rights reserved.
+
+No permission to use, copy, modify, redistribute, or sublicense this project's source code is granted except as separately authorized by the copyright holder. Third-party components retain their respective licenses.

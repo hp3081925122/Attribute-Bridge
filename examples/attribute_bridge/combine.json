@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "groups": [
+    {
+      "enabled": false,
+      "name": "attack_damage_and_armor_example",
+      "attributes": {
+        "minecraft:generic.attack_damage": 1.0,
+        "minecraft:generic.armor": 1.0
+      },
+      "duplicate_policy": "keep_all"
+    }
+  ]
+}

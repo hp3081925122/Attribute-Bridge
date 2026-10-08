@@ -1,0 +1,11 @@
+{
+  "attribute_bridge.rules_mismatch": "无法应用服务器的属性桥接规则，请检查客户端和服务器的属性模组是否一致。",
+  "attribute_bridge.reloaded": "已重新加载 %s 组属性修饰符桥接规则。",
+  "attribute_bridge.reload_failed": "规则加载失败，已保留原规则：%s",
+  "attribute_bridge.group_count": "当前启用 %s 组规则。",
+  "attribute_bridge.group": "%s | 模式：%s | 属性：%s",
+  "attribute_bridge.not_living": "目标必须是生物。",
+  "attribute_bridge.no_attribute": "目标没有属性：%s",
+  "attribute_bridge.inspect": "%s | %s | 基础值：%s | 生效值：%s | 原生修饰符：%s | 生效修饰符：%s",
+  "attribute_bridge.modifier": "  %s | 运算：%s | 数值：%s"
+}
